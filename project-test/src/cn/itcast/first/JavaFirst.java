@@ -9,5 +9,7 @@ public class JavaFirst {
 		System.out.println("HelloWorld!");
 		
 		System.out.println("เห");
+		
+		System.out.println("woqu");
 	}
 }
