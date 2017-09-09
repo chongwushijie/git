@@ -10,6 +10,10 @@ public class JavaFirst {
 		
 		System.out.println("เห");
 		
+
 		System.out.println("sihda");
+		
+		System.out.println("woqu");
+
 	}
 }
