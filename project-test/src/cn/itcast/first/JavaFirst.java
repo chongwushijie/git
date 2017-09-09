@@ -17,5 +17,7 @@ public class JavaFirst {
 		
 		
 		System.out.println("hi");
+		System.out.println("hha");
+
 	}
 }
